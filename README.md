@@ -2,9 +2,9 @@
 
 JP Meet ช่วยบันทึกเสียง ถอดเสียง และจัดทำรายงานการประชุม รองรับการเลือกประมวลผลในเครื่องหรือผ่านผู้ให้บริการออนไลน์ตามการตั้งค่า
 
-ดาวน์โหลดตัวติดตั้งจาก [รายการรุ่นที่เผยแพร่](https://github.com/PHATCHARAPHON63/JP-Meet-/releases) โดยเลือกไฟล์ให้ตรงกับเครื่องของคุณ: Windows x64 หรือ Mac ที่ใช้ Apple Silicon
+ดาวน์โหลด [JP Meet สำหรับ Mac Apple Silicon](https://github.com/PHATCHARAPHON63/JP-Meet-/releases/latest) รองรับ Mac ที่ใช้ชิป M1 และใหม่กว่า เลือกไฟล์ `.dmg` เพื่อติดตั้ง
 
-ขณะนี้มี [JP Meet 0.4.2 รุ่นทดลองสำหรับ Mac Apple Silicon](https://github.com/PHATCHARAPHON63/JP-Meet-/releases/tag/v0.4.2-macos-preview) ให้ดาวน์โหลด ตัวติดตั้ง Windows และช่องทางอัปเดตรุ่นหลักยังอยู่ระหว่างเตรียม รุ่นทดลอง Mac ยังไม่ได้รับการรับรอง notarization จาก Apple จึงอาจมีการแจ้งเตือนเมื่อเปิดครั้งแรก
+แอปยังไม่ได้รับการรับรอง notarization จาก Apple จึงอาจมีการแจ้งเตือนเมื่อเปิดครั้งแรก
 
 ## การติดตั้งและอัปเดต
 
