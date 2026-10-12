@@ -4,7 +4,9 @@
 ตัวติดตั้ง aarch64 ใช้กับ Mac M4 ได้โดยตรง
 
 การติดตั้ง
-1. ดาวน์โหลดไฟล์ .dmg จาก https://github.com/PHATCHARAPHON63/JP-Meet-/releases/latest
+1. กดลิงก์ดาวน์โหลดไฟล์ติดตั้งโดยตรง:
+   https://github.com/PHATCHARAPHON63/JP-Meet-/releases/latest/download/JP_Meet_Mac_AppleSilicon.dmg
+   ไฟล์ชื่อ JP_Meet_Mac_AppleSilicon.dmg รองรับ Mac M4
 2. เปิดไฟล์ .dmg แล้วลาก JP Meet ไปยังโฟลเดอร์ Applications
 3. เปิด JP Meet จาก Applications
 
